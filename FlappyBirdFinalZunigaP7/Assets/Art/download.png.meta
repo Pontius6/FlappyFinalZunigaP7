@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 51ff2f932f2543a499d8d06827ab8e6b
+guid: 1113505dd88ab9c4c8338beb6955ed7d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -164,64 +164,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BirdHero_0
+      name: download_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 30
-        width: 113
-        height: 67
+        x: 119
+        y: 0
+        width: 88
+        height: 168
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 28, z: 84, w: 35}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cd6fe4490102b342a57e426f156f7d3
-      internalID: -600169507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BirdHero_1
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 30
-        width: 118
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae92d74b314971d43b3980c4b92f02e7
-      internalID: 74502701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BirdHero_2
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 30
-        width: 113
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 120364765337ef741aa3f47fe8d4a85b
-      internalID: -2124677685
+      spriteID: 34146515d6e998c40a8bd7ab43984017
+      internalID: -1024380402
       vertices: []
       indices: 
       edges: []
@@ -237,9 +195,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BirdHero_2: -2124677685
-      BirdHero_1: 74502701
-      BirdHero_0: -600169507
+      download_0: -1024380402
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
